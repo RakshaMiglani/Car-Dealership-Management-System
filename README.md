@@ -40,7 +40,7 @@ The relational schema includes the following tables:
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/car-dealership-management.git
+git clone https://github.com/RakshaMiglani/car-dealership-management.git
 
 # Install dependencies
 pip install oracledb tabulate
